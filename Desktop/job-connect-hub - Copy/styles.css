@@ -355,7 +355,7 @@ img{
   color:white;
   background:var(--warning);
   border:none;
-} 
+}
 
 .story-card img{
   border-radius:18px;
@@ -555,12 +555,4 @@ footer{
 }
 .table1{
   padding: 0px 0px 50px 50px;
-}
-
-.course{
-  background:linear-gradient(180deg, rgba(19,43,71,0.86), rgba(8,19,34,0.96));
-  border:1px solid rgba(255,255,255,0.08);
-  border-radius:var(--radius);
-  padding:24px;
-  box-shadow:var(--shadow);
 }
